@@ -15,4 +15,4 @@
 
 ## Link de acesso pelo p5.js
 
-:paperclip: [Pong] (https://editor.p5js.org/mariaeugenia907/sketches/AJpshAPxW)
+:paperclip: https://editor.p5js.org/mariaeugenia907/sketches/AJpshAPxW
