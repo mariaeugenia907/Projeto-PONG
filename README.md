@@ -2,7 +2,7 @@
 :round_pushpin: Recriação do Jogo Clássico Pong
 
 ## Objetivo
-:tennis: Marcar pontos e proteger seu lado com auxilio da raquete que se movimenta ao clicar as setas para cima e para baixo no PC
+:tennis: Marcar pontos e proteger seu lado com o auxilio da raquete que se movimenta ao clicar as setas para cima e para baixo no PC
 
 ## Tecnologias utilizadas
 :pushpin: JavaScript
