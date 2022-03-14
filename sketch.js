@@ -49,7 +49,7 @@ function draw() {
   colisaoBorda();
   mostraRaquete(xRaquete, yRaquete);
   movimentaRaqueteJogador();
-  colisaoRaquete();
+  //colisaoRaquete();
   verificaColisaoRaquete(xRaquete, yRaquete);
   mostraRaquete(xRaqueteOponente, yRaqueteOponente);
   movimentaRaqueteOponente();
